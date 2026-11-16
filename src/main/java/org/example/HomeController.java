@@ -6,6 +6,8 @@ public class HomeController {
 
     @RequestMapping("/contact")
     public String index() {
+
+        System.out.println("Hello World");
         return "Hello World";
     }
 }
