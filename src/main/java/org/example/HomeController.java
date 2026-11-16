@@ -8,6 +8,6 @@ public class HomeController {
     public String index() {
 
         System.out.println("Hello World");
-        return "contact info found";
+        return "Feature changes for PR";
     }
 }
